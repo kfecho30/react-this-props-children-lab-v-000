@@ -3,10 +3,8 @@ import PropTypes from 'prop-types';
 
 export default class Invitation extends React.Component {
   render(){
-    return 
-    (
+    return(
       
     )
   }
 }
-
